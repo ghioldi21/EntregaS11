@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+h1 {
+    font-size: 55px;
+    color: #333;
+    margin-top: 20px;
+}
+
+#cont {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: orange;
+}
+
+button {
+    font-size: 24px;
+    background-color: orange;
+    color: #130606;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+
